@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dictionary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dictionary_jar</output-path>
+    <root id="archive" name="Dictionary.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/resorses/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Dictionary" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-icons525-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-glyphsbrowser.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-octicons-4.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-materialicons-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/JFoenix-master/demo/build/distributions/demo-0.0.0-SNAPSHOT/lib/jfoenix-0.0.0-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-materialdesignfont-1.6.50.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-commons-8.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/controlsfx-8.40.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-weathericons-2.0-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/JavaFx/fontawesomefx-glyphsbrowser/lib/fontawesomefx-fontawesome-4.6.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

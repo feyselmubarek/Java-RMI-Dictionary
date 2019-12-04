@@ -1,0 +1,30 @@
+.jfx-list-cell:selected{
+    -fx-background-color: #5e92f3;
+}
+
+.jfx-list-cell{
+    -fx-background-insets: 0.0;
+}
+
+.jfx-list-cell .jfx-rippler{
+    -fx-rippler-fill: BLUE;
+}
+
+.jfx-list-cell:hover {
+    -fx-background-color: #1565c0;
+}
+
+.jfx-list-view{
+    -fx-background-insets: 0.0;
+    -fx-cell-vertical-margin: 10.0;
+    //-jfx-vertical-gap: 10;
+}
+
+.jfx-text-field{
+   -fx-text-fill: white;
+   -fx-prompt-text-fill: white;
+}
+
+.closeBn:hover{
+    -fx-background-color: red;
+}
